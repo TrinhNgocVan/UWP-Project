@@ -1,0 +1,1 @@
+E:\Uwp\project\UWP\UWP\UWP.csproj;x86
